@@ -1,0 +1,40 @@
+## Rapport d'Expérience Utilisateur
+
+### 1. Facilité d'utilisation et navigation sur le site
+**Clarté de la navigation :**
+- La navigation est bien structurée, mais certains sous-menus ne sont pas immédiatement visibles. Une meilleure hiérarchisation des menus pourrait améliorer l'expérience.
+
+**Accessibilité des fonctionnalités :**
+- Toutes les fonctionnalités principales sont accessibles depuis la page d'accueil, mais les liens vers des fonctionnalités secondaires sont parfois difficiles à trouver.
+
+**Cohérence de l'interface utilisateur :**
+- Les boutons et les formulaires sont cohérents dans l'ensemble du site, mais certains formulaires ont des styles légèrement différents.
+
+**Temps de chargement :**
+- Le temps de chargement est généralement bon, mais certaines pages prennent plus de temps à charger, surtout les pages de rapport.
+
+### 2. Incohérences ou bugs rencontrés
+**Fonctionnalités cassées :**
+- Le bouton de sauvegarde sur la page "Ajouter un utilisateur" ne fonctionne pas lorsqu'un champ obligatoire est vide, sans afficher de message d'erreur clair.
+
+**Erreurs de mise en page :**
+- Sur certaines pages, les boutons sont mal alignés lorsque la fenêtre du navigateur est redimensionnée.
+
+**Messages d'erreur :**
+- Les messages d'erreur ne sont pas toujours clairs. Par exemple, "Erreur inconnue" devrait être remplacé par un message plus descriptif.
+
+**Comportements inattendus :**
+- Lors de l'application d'un congé, le formulaire se réinitialise sans raison apparente.
+
+### 3. Suggestions d'amélioration
+**Amélioration de la navigation :**
+- Ajouter un menu déroulant ou une barre de recherche pour accéder rapidement aux fonctionnalités souvent utilisées.
+
+**Clarté des messages d'erreur :**
+- Rendre les messages d'erreur plus descriptifs et utiles, par exemple, indiquer quel champ est incorrect et pourquoi.
+
+**Amélioration de la mise en page :**
+- Utiliser des techniques de mise en page réactives pour garantir que les éléments restent bien alignés sur toutes les tailles d'écran.
+
+**Optimisation des temps de chargement :**
+- Optimiser les images et les scripts pour réduire le temps de chargement des pages.
